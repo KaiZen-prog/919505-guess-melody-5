@@ -1,7 +1,7 @@
 # Учебный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Николай Карнаев](https://up.htmlacademy.ru/react/5/user/919505).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Махнёв](https://htmlacademy.ru/profile/id7392).
 
 ---
 
